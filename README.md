@@ -77,6 +77,10 @@ The entire pipeline (preprocessing + model) is saved with `joblib` and loaded by
 | Deployment | Render (or any WSGI host) + gunicorn |
 
 ---
+## OUTPUT:
+<img width="1918" height="1078" alt="Screenshot 2026-07-15 114427" src="https://github.com/user-attachments/assets/6329d9d0-a518-42d6-ad68-a2bf69130ac5" />
+<img width="1918" height="1078" alt="Screenshot 2026-07-15 114523" src="https://github.com/user-attachments/assets/b3f22484-6b8d-4c26-974c-654d8bcc38c9" />
+
 
 ## 🚀 Run locally
 
