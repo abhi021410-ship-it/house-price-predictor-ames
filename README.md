@@ -75,6 +75,8 @@ The entire pipeline (preprocessing + model) is saved with `joblib` and loaded by
 | Model serialization | joblib |
 | Frontend | HTML5, CSS3 (glassmorphism, slideshow), vanilla JavaScript |
 | Deployment | Render (or any WSGI host) + gunicorn |
+<img width="3203" height="2048" alt="deepseek_mermaid_20260715_634ecf" src="https://github.com/user-attachments/assets/0fd34b23-0177-4ac3-b086-6c6a81e3b289" />
+
 
 ---
 ## OUTPUT:
