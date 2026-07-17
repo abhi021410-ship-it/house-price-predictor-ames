@@ -83,9 +83,13 @@ The entire pipeline (preprocessing + model) is saved with `joblib` and loaded by
 <img width="1918" height="1078" alt="Screenshot 2026-07-15 114523" src="https://github.com/user-attachments/assets/b3f22484-6b8d-4c26-974c-654d8bcc38c9" />
 
 
-## 🚀 Run locally
+## 👨‍💻 Author
 
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/yourusername/house-price-predictor-ames.git
-   cd house-price-predictor-ames
+**M. Abhiram Reddy**
+
+B.Tech – Artificial Intelligence & Data Science
+
+- GitHub: https://github.com/abhi021410-ship-it
+- LinkedIn: https://www.linkedin.com/in/abhiram-reddy-7470b6344/
+
+---
